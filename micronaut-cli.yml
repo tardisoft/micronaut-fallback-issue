@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.fallback.issue
+---
+testFramework: spock
+sourceLanguage: java

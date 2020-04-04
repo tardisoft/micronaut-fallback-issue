@@ -1,0 +1,8 @@
+micronaut:
+  application:
+    name: micronaut-fallback-issue
+  server.port: 8080
+
+client:
+  member.repository.url: http://localhost:8080
+  memgroup.repository.url: http://localhost:8080
